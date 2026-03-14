@@ -1,2 +1,16 @@
-# javascript-test-0001-final-13368-amruta
-Final Project Assignment - This repository contains the complete final project code and documentation.
+let n = 5;
+
+
+console.log("*");
+
+console.log("* *");
+
+
+for (let i = 0; i < 4; i++) {
+    console.log("*   *");
+}
+
+
+console.log(" * *");
+console.log("* *");
+console.log("*");
